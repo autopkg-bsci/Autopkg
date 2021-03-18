@@ -16,7 +16,7 @@
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.killahquam.pkg.visualstudiocode</string>
+    <string>com.github.killahquam.pkg.visualstudioscode</string>
     <key>Process</key>
     <array>
         <dict>
