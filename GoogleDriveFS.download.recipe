@@ -9,7 +9,7 @@
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
-		<string>Drive File Stream</string>
+		<string>GoogleDrive</string>
 		<key>DOWNLOAD_URL</key>
 		<string>https://dl.google.com/drive-file-stream/GoogleDrive.dmg</string>
 	</dict>
